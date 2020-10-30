@@ -48,5 +48,4 @@ const VideoFooter = ({ channel, likes, shares, avatarSrc, song }) => {
         </div>
     );
 }
-
 export default VideoFooter;
